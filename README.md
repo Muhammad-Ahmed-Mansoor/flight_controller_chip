@@ -9,5 +9,8 @@ We therefore propose a reconfigurable system-on-chip (SoC), containing the featu
 A basic block diagram of the proposed chip is shown below.
 ![alt text](https://raw.githubusercontent.com/Muhammad-Ahmed-Mansoor/flight_controller_chip/main/Block%20Diagram/Block%20Diagram%20NEW.png)
 ### The Team
-1. Muhammad Ahmed Mansoor
-2. Aamna Arshad
+The project team consists of the following students of School of Electrical Engineering and Computer Science (SEECS) at the National University of Science and Technology (NUST) Pakistan:
+1. Muhammad Ahmed Mansoor (UG EE, final year student)
+2. Aamna Arshad (UG EE, final year student)
+
+The project supervisor is Dr. Rehan Ahmed.
