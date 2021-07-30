@@ -7,4 +7,7 @@ For any FPGA based system, the next leap in performance is achievable through AS
 We therefore propose a reconfigurable system-on-chip (SoC), containing the features common to most flight controllers (such as PID controllers, I2C and SPI peripherals etc.) as hard blocks, and a reconfigurable fabric based on the [OpenFPGA](https://github.com/lnis-uofu/OpenFPGA) project allowing the user to develop their own sensor interface, fusion and processing IPs, depending on their specific requirements.
 ### Block Diagram
 A basic block diagram of the proposed chip is shown below.
-![alt text]()
+![alt text](https://raw.githubusercontent.com/Muhammad-Ahmed-Mansoor/flight_controller_chip/main/Block%20Diagram/Block%20Diagram%20NEW.png)
+### The Team
+1. Muhammad Ahmed Mansoor
+2. Aamna Arshad
